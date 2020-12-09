@@ -1,0 +1,11 @@
+pyproject.toml
+setup.cfg
+setup.py
+aoc/__init__.py
+aoc/puzzle.py
+aoc.egg-info/PKG-INFO
+aoc.egg-info/SOURCES.txt
+aoc.egg-info/dependency_links.txt
+aoc.egg-info/not-zip-safe
+aoc.egg-info/requires.txt
+aoc.egg-info/top_level.txt
